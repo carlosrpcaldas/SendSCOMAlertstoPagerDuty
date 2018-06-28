@@ -1,5 +1,5 @@
 # SendSCOMAlertstoPagerDuty
-Powershell Script to send alerts to PagerDuty (or any REST service out there).
+Powershell Script to send alerts from a SCOM notificiation channel to PagerDuty (or any REST service out there).
 
 Full path of the command file:
 c:\windows\system32\windowspowershell\v1.0\powershell.exe
